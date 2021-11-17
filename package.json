@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "oicq": "^2.1.4"
+  },
+  "devDependencies": {
+    "@types/node": "^16.11.7"
+  }
+}
