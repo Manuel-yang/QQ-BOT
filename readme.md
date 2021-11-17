@@ -1,4 +1,6 @@
 # 编译ts
-tsc xxx.ts
+tsc app.ts
 
-# 配置数据库
+node app.js
+
+# node版本需要大于14
